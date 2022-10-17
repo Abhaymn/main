@@ -4,4 +4,7 @@ kheer
 pasta
 chicken
 
+pizza
+burger
+
 thank you :)
